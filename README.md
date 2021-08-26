@@ -1,16 +1,24 @@
-### Hi there 👋
+### Hey 👋, I'm Neel.
 
-<!--
-**neelgriddalur/neelgriddalur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Neel Griddalur**, an enthusiastic **infrastructure architect** ☁️, and **CS @ Boston University** ![BU Logo]("images/bu.png").
 
-Here are some ideas to get you started:
+I'm currently building Enrole ([@enrole](https://github.com/enrole)), a mobile-first platform dedicated to helping startups find their technical talent. _It's good to meet you. :)_
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 📫 How to reach me
+- ✉️ neelgrid@bu.edu
+- ✉️ neel@enroleapp.com
+
+```js
+const neel = {
+  "fullName": "Neelagreev Griddalur",
+  "pronouns": "he" | "him",
+  "employment": {
+      "companyName": "Enrole Inc."
+      "title": "Co-Founder, CEO"
+      "since": 1583020814000 //March 2020
+      "present": true
+   }
+   "percentWantingToChangeTheFuture": 100.0,
+}
+```
+
