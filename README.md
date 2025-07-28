@@ -4,8 +4,9 @@ I’m Neel Griddalur, a passionate Senior DevOps Engineer 🛠️ and cloud infr
 
 I’ve architected infrastructure powering over 10 million daily users, built for both nimble startups and tightly regulated sectors like finance, law enforcement, and telecommunications. If it needs to scale securely, I’m your guy.
 
-📫 How to reach me
-	•	✉️ neel@griddalur.xyz
+### 📫 How to reach me
+- ✉️ neel@griddalur.xyz
+- [LinkedIn](https://www.linkedin.com/in/neelgrid/)
 
 ``` js
 const neel = {
