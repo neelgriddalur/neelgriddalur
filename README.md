@@ -14,7 +14,7 @@ const neel = {
   pronouns: "he" | "him",
   employment: {
     companyName: "Kaseware Inc.",
-    title: "Senior DevOps Engineer",
+    title: "DevOps Engineer",
     since: new Date("2024-11-01"),
     present: true
   },
