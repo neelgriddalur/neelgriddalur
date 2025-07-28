@@ -11,15 +11,13 @@ I’ve architected infrastructure powering over 10 million daily users, built fo
 ``` js
 const neel = {
   fullName: "Neelagreev Griddalur",
-  pronouns: "he" | "him",
+  pronouns: ["he", "him"],
   employment: {
     companyName: "Kaseware Inc.",
     title: "DevOps Engineer",
     since: new Date("2024-11-01"),
     present: true
   },
-  skills: ["Kubernetes", "AWS", "CI/CD", "Infrastructure as Code", "Observability"],
-  builtFor: ["startups", "financial institutions", "law enforcement"],
   percentWantingToChangeTheFuture: 100.0
 }
 ```
